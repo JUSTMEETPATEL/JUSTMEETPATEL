@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmeetpatel&label=Profile%20views&color=0e75b6&style=flat" alt="justmeetpatel" /> </p>
 
-- 🌱 I’m currently learning **C++ and DSA in C & C++**
+- 🌱 I’m currently learning **APP Developement and DSA in C & C++**
 
 - 📫 How to reach me **justmeetpatel@gmail.com**
 
