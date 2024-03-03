@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=justmeetpatel&theme=halloween" alt="justmeetpatel" /></p>
 
-<img  src="https://raw.githubusercontent.com/JUSTMEETPATEL/JUSTMEETPATEL/output/snake.svg" alt="snake" /></a>
+<img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
