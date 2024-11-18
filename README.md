@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justmeetpatel&label=Profile%20views&color=0e75b6&style=flat" alt="justmeetpatel" /> </p>
 
-- 🌱 I’m currently learning **APP Developement and DSA in C & C++**
+-  I’m **Full Stack Web Developer**
 
 - 📫 How to reach me **justmeetpatel@gmail.com**
 
-- 💻 Check out my portfolio **www.meetpatel.me**
+- 💻 Check out my portfolio **www.justmeetpatel.vercel.app**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
