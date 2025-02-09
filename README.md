@@ -26,6 +26,11 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=JUSTMEETPATEL&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  
+  ![snake gif](https://github.com/JUSTMEETPATEL/JUSTMEETPATEL/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JUSTMEETPATEL&icon=0&color=0)](https://visitcount.itsvg.in)
